@@ -76,7 +76,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             </form>
 
 
-            <a>Back to Menu</a>
+            <a href="index.php">Back to Menu</a>
         </div>
 
         <?php if ($employee) : ?>

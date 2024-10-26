@@ -16,7 +16,7 @@ if ($row['empCount'] > 0) {
     $reu = $con->query($query);
 
     $message = "Successfully deleted";
-}
+} 
 ?>
 
 

@@ -51,6 +51,6 @@ include "db.php";
     <a class="he" href="dept.php">Departments Management</a>
     <a class="he" href="emp.php">Employees Management</a>
     <a class="he" href="att.php">Attendance Recording</a>
-    <a class="he">Attendance Monitoring</a>
+    <a class="he" href="monEmp.php">Attendance Monitoring</a>
 
 </div>
